@@ -1,0 +1,2 @@
+discord.py 2.2.2 or higher
+youtube_dl 2021.12.17 or higher
